@@ -3,10 +3,10 @@ This repository includes a number of workflows, defined as Common Workflow Langu
 
 The following workflows are currently defined within this repository:
 - Internal Workflows - those developed alongside the DataHub
-  - snuggs
-  - convert-url
-  - convert-stac
-  - water-bodies
+  - snuggs (based on EOEPCA)
+  - convert-url (borrowed from EOEPCA)
+  - convert-stac (borrowed from EOEPCA)
+  - water-bodies (borrowed from EOEPCA)
 
 - External Workflows - those developed by other users of the DataHub
   - ndvi-urls
