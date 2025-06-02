@@ -13,3 +13,4 @@ The following workflows are currently defined within this repository:
   - resize-urls
   - water-quality
   - land-cover-change
+  - resize-sentinel2ard
