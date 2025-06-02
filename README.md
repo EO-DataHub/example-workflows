@@ -3,11 +3,13 @@ This repository includes a number of workflows, defined as Common Workflow Langu
 
 The following workflows are currently defined within this repository:
 - Internal Workflows - those developed alongside the DataHub
-  - Snuggs
-  - Convert URL
-  - Convert STAC
-  - Water Bodies
+  - snuggs
+  - convert-url
+  - convert-stac
+  - water-bodies
 
-External Workflows - those developed by other users of the DataHub
+- External Workflows - those developed by other users of the DataHub
   - ndvi-urls
   - resize-urls
+  - water-quality
+  - land-cover-change
