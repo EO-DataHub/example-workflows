@@ -14,3 +14,17 @@ The following workflows are currently defined within this repository:
   - water-quality
   - land-cover-change
   - resize-sentinel2ard
+
+You can use the provided Jupyter Notebook to deploy, execute and view these workflows. To get set up you will need to start a Notebook server and generate a workspace-scoped API token for your workspace. You can place this token in a .env file within this directory.
+
+Run Jupyter Notebook
+```
+jupyter notebook
+```
+
+Copy the example sample.env file
+```
+cp sample.env .env
+```
+
+And place your token inside it, as generated from the DataHub [Workspace UI](https://eodatahub.org.uk/workspaces/) under Credentials.
