@@ -8,12 +8,12 @@ The following workflows are currently defined within this repository:
   - convert-stac (borrowed from EOEPCA)
   - water-bodies (borrowed from EOEPCA)
 
-- External Workflows - those developed by other users of the DataHub
-  - ndvi-urls
-  - resize-urls
-  - water-quality
-  - land-cover-change
-  - resize-sentinel2ard
+- External Workflows - those developed by other users of the DataHub, including those produced by:
+  - Oxidian
+  - Spyrosoft
+  - Sparkgeo
+  - Airbus
+
 
 You can use the provided Jupyter Notebook to deploy, execute and view these workflows. To get set up you will need to start a Notebook server and generate a workspace-scoped API token for your workspace. You can place this token in a .env file within this directory.
 
