@@ -13,6 +13,7 @@ The following workflows are currently defined within this repository:
   - Spyrosoft
   - Sparkgeo
   - Airbus
+  - NPL
 
 
 You can use the provided Jupyter Notebook to deploy, execute and view these workflows. To get set up you will need to start a Notebook server and generate a workspace-scoped API token for your workspace. You can place this token in a .env file within this directory.
