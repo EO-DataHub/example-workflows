@@ -7,6 +7,7 @@ Workflows developed by other developers, not part of the DataHub delivery team. 
     - resize-urls
     - cloud-free-best-pixel
     - s1-coherence
+    - resize-sentinel2ard.cwl
 
 - Sparkgeo
     - physrisk-filter
